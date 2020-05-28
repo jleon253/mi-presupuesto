@@ -1,3 +1,14 @@
+# Mi Presupuesto
+
+This small app allow calculate a small budget. Local storage is'nt enabled.
+
+**Demo:** https://jleon253.github.io/mi-presupuesto/
+
+### Dev tools used:
+
+> - HTML, CSS, Normalize.css, Skeleton CSS
+> - ES6, React 16.13.1 (Hooks)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
